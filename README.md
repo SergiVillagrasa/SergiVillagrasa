@@ -18,6 +18,13 @@ Alongside my studies, I am **Co-President of Engineering Hub**, a student techno
 
 ## Featured projects
 
+### [SnapHunt — Hacktoberfest “Touch Grass”](https://github.com/SergiVillagrasa/Hacktoberfest-W1)
+
+A real-world multiplayer photo scavenger hunt for 2–6 friends. Players photograph nearby objects and search for each other's targets using AI-generated voice and visual clues. Vision models provide matching evidence while the backend enforces scoring and game rules, with live room updates over SSE.
+
+**Stack:** TypeScript · Next.js · React · Express · Mastra · ElevenLabs · fal · PostgreSQL · Drizzle  
+[Play the demo](https://sergi-villagrasa.tech/projects/snaphunt)
+
 ### [Swiss Transport Assistant — Swiss AI Weeks](https://github.com/SergiVillagrasa/SwissAI-Hacks26)
 
 A team-built AI travel assistant for Swiss rail journeys and Zurich Airport connections. Combines a Python MCP server and FastAPI agent backend with a React interface, streaming responses, interactive route maps, and voice input/output.
