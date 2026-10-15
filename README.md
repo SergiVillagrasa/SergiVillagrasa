@@ -18,7 +18,7 @@ Alongside my studies, I am **Co-President of Engineering Hub**, a student techno
 
 ## Featured projects
 
-### [SnapHunt — Hacktoberfest “Touch Grass”](https://github.com/SergiVillagrasa/Hacktoberfest-W1)
+### [Hacktoberfest “Touch Grass”](https://github.com/SergiVillagrasa/Hacktoberfest-W1)
 
 A real-world multiplayer photo scavenger hunt for 2–6 friends. Players photograph nearby objects and search for each other's targets using AI-generated voice and visual clues. Vision models provide matching evidence while the backend enforces scoring and game rules, with live room updates over SSE.
 
